@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(20, 19, 19);
+    color:#fff;
+}
+
+tr:hover{
+    color:black;
+}
+
+#das{
+    font-size: 3.2rem;
+    text-align: center;
+}
+
+#btn1{
+    background-color: rgb(209, 91, 47);
+    border-style: none;
+}
+
+#btn2{
+    background-color: crimson;
+    border-style: none;
+}
+
+#mainbtn{
+    background-color: darkgreen;
+    border-style: none;
+}
+
+#logout{
+    margin-left: 150rem;
+}

@@ -1,0 +1,50 @@
+body{
+    background-color:rgb(53, 49, 49);
+}
+
+/* form {
+    align-items: center;
+    text-align: center;
+    place-items: center;
+    } */
+
+    #myform{
+        background-color: linen;
+        font-family: arial;
+        font-size: 20px;
+        margin-left:32rem;
+        margin-top: 5rem;
+        text-align: center;
+        place-items: center;
+        width: 350px;
+        height: 300px;
+        border: 1px solid;
+        padding: 10px;
+        box-shadow: 5px 8px 22px lightseagreen;
+
+      }
+      
+      p {
+        text-align: center;
+      }
+
+      input{
+          margin-top:1rem;
+          height:22px;
+          border-radius: 5%;
+      }
+
+      button{
+          font-size: 18px;
+          background-color:lightsalmon;
+      }
+      footer{
+      position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: rgb(87, 77, 77);
+   color: white;
+   font-size: 1.4rem;
+   text-align: center;
+}
